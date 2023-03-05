@@ -7,10 +7,11 @@ Welcome to my central landing page! My name is Stefan (on social StefanAtDev) an
 Below you will find links to my social media and other profiles as well as a short introduction to some of my Github repositories and projects.
 
 # Profiles
+- [Github](https://github.com/sgohlke): Source code repositories, some running Github actions or hosting websites/apps using Github pages.
 - [Stackstream](https://stack-stream.com/profile/StefanAtDev): Main streaming platform, you can join the streams and watch recordings.
 - [Twitch](https://www.twitch.tv/stefanatdev): Backup streaming account, currently not in use.
 - [Youtube](https://www.youtube.com/channel/UCnmMBPEgFIC1d0TbEVJhOoQ): (outdated), contains some of my old stream recordings.
-- [Discord](https://discord.gg/XwSrFyveCh): My Discord Server. If you have questions or join discussions, this is the right place.
+- [Discord](https://discord.gg/XwSrFyveCh): My Discord Server. If you have questions or want to join discussions, this is the right place.
 - [Twitter](https://twitter.com/StefanAtDev): Follow my Twitter account to stay up-to-date!
 - [Xing](https://www.xing.com/profile/Stefan_Gohlke8/): My profile on Xing.
 
