@@ -8,11 +8,13 @@ Below you will find links to my social media and other profiles as well as a sho
 
 # Profiles
 - [Github](https://github.com/sgohlke): Source code repositories, some running Github actions or hosting websites/apps using Github pages.
-- [Stackstream Profile](https://stack-stream.com/profile/StefanAtDev) and  [Stackstream Space](https://www.stack-stream.com/stefanatdev): Main streaming platform, you can join the streams and watch recordings. In the space you can read my news and ask questions/give feedback.
-- [Twitch](https://www.twitch.tv/stefanatdev): Backup streaming account, currently not in use.
-- [Youtube](https://www.youtube.com/channel/UCnmMBPEgFIC1d0TbEVJhOoQ): (outdated), contains some of my old stream recordings.
+- [Twitch](https://www.twitch.tv/stefanatdev): Main streaming account.
+- [Youtube](https://www.youtube.com/channel/UCnmMBPEgFIC1d0TbEVJhOoQ): Contains my current and some of my older stream recordings.
 - [Twitter](https://twitter.com/StefanAtDev): Follow my Twitter account to stay up-to-date!
 - [Xing](https://www.xing.com/profile/Stefan_Gohlke8/): My profile on Xing.
+
+## Old profiles
+- [Stackstream Profile](https://stack-stream.com/profile/StefanAtDev) and  [Stackstream Space](https://www.stack-stream.com/stefanatdev): Software/Dev streaming platform. Ended in September 2023 due to platform shutdown.
 
 # Projects and Repositories
 
