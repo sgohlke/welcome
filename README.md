@@ -9,7 +9,7 @@ Below you will find links to my social media and other profiles as well as a sho
 # Profiles
 - [Github](https://github.com/sgohlke): Source code repositories, some running Github actions or hosting websites/apps using Github pages.
 - [Twitch](https://www.twitch.tv/stefanatdev): Main streaming account.
-- [Youtube](https://www.youtube.com/channel/UCnmMBPEgFIC1d0TbEVJhOoQ): Contains my current and some of my older stream recordings.
+- [Youtube](https://www.youtube.com/@stefanatdev1788): Contains my current and some of my older stream recordings.
 - [Twitter](https://twitter.com/StefanAtDev): Follow my Twitter account to stay up-to-date!
 - [Xing](https://www.xing.com/profile/Stefan_Gohlke8/): My profile on Xing.
 
